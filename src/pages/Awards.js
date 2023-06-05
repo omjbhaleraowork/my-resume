@@ -4,7 +4,7 @@ import Header from "../components/Header";
 const Awards = () => {
     return (
         <>
-            <div class="container-fluid p-">
+            <div class="container-fluid p-0">
                 <Header />
                 <section class="resume-section" id="awards">
                     <div class="resume-section-content">
