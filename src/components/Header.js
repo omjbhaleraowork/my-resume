@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <>
             <nav
-                class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
+                class="navbar navbar-expand-lg navbar-dark bg-primary "
                 id="sideNav"
             >
                 <Link class="navbar-brand js-scroll-trigger" to="/">
